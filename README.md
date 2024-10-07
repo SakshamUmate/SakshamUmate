@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on web Development in flask<br>👯 I’m looking to collaborate on web Development <br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning ML<br>💬 Ask me about anything <br>⚡ 
+🔭 I’m currently working on various ML Models<br>👯 I’m looking to collaborate on ML,NLP,DL,CNN<br>🤝 I’m looking for help with NLP,DL,CNN<br>🌱 I’m currently learning ML<br>💬 Ask me about anything <br>⚡ 
 
 
 ## 🌐 Socials:
