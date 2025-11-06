@@ -46,7 +46,7 @@
 
 - 🏡 **Household Services WebApp**  
   *A platform to connect users with household service providers.*  
-  <sup>[repo link](https://github.com/SakshamUmate/QuickHomeServicesrvices)]</sup>
+  <sup>[[repo link]](https://github.com/SakshamUmate/QuickHomeServices)</sup>
 <!--
 - 🔐 **Crypto Price Predictor (LSTM powered)**  
   *Predicts cryptocurrency prices using LSTM neural networks.*  
