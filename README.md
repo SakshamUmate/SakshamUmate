@@ -46,19 +46,20 @@
 
 - 🏡 **Household Services WebApp**  
   *A platform to connect users with household service providers.*  
-  <sup>[repo link coming soon]</sup>
-
+  <sup>[repo link](https://github.com/SakshamUmate/QuickHomeServices_V2)]</sup>
+<!--
 - 🔐 **Crypto Price Predictor (LSTM powered)**  
   *Predicts cryptocurrency prices using LSTM neural networks.*  
-  <sup>[repo link coming soon]</sup>
+  <sup>[repo link coming soon]</sup> 
+  -->
 
 - 💻 **Sparks – Code Editor App**  
   *A code editor web app designed for practicing coding challenges, similar to LeetCode and other coding platforms. Supports multiple programming languages, real-time code execution, and curated problem sets to help users enhance their coding skills.*  
-  <sup>[repo link coming soon]</sup>
+  <sup>[[repo link]](https://github.com/SakshamUmate/code_editor)</sup>
 
 - 🏥 **Health App with Mistral AI Agent**  
   *An advanced healthcare application powered by a Mistral AI agent connected to a vector database of medical data. Enables doctors to access comprehensive, detailed medical information instantly—improving decision-making and facilitating deeper insights into patient care.*  
-  <sup>[repo link coming soon]</sup>
+  <sup>[[repo link]](https://github.com/SakshamUmate/iHelth_app)</sup>
 
 ---
 
